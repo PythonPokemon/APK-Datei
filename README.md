@@ -1,2 +1,2 @@
 # Kivy Buildozer
-modul um eine APK-Datrei für Oython apps zu erstellen
+modul um eine APK-Datei für Oython apps zu erstellen
